@@ -2,7 +2,8 @@
 
 # 广州铁路职业技术学院人工智能协会 AIIC
 
-这个组织包含了 AIIC 的核心代码仓库。
+这个组织包含了 AIIC 的核心代码仓库。  
+_组织维护/联络人员_ [@WUTONK](https://github.com/WUTONK)
 
 关注我们  
 微信公众号：AIIC
