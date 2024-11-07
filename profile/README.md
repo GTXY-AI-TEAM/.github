@@ -6,4 +6,4 @@
 _组织维护/联络人员_ [@WUTONK](https://github.com/WUTONK)
 
 关注我们  
-微信公众号：AIIC
+微信公众号 AIIC
